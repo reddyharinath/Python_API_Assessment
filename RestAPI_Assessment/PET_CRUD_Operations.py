@@ -13,7 +13,7 @@ tags=createUserPayload['tags']
 print(type(tags))
 tags[0]['name'] = 'TestPETags'
 
-
+readConfigDetails = Util.readConfigDetails()
 
 
 headers = {"accept":"application/json","Content-Type":"application/json"}
@@ -24,26 +24,28 @@ class Pet_CRUD_Operations:
     @staticmethod
     def createPet():
         print('creating PET')
-        createUserResponse = requests.post("https://petstore.swagger.io/v2/pet",json=createUserPayload,headers=headers)
+        #print('base URL is: ',readConfigDetails['API']['baseURI'])
+        createUserResponse = requests.post(readConfigDetails['API']['baseURI'],json=createUserPayload,headers=headers)
         responseJson = createUserResponse.json()
         return  responseJson
 
     @staticmethod
     def getPetByID(pet_id):
         print('retrieving pet details...')
-        retrieveResponse = requests.get('https://petstore.swagger.io/v2/pet/' + pet_id, headers=header)
+        retrieveResponse = requests.get(readConfigDetails['API']['baseURI'] + pet_id, headers=header)
         responseJson = retrieveResponse.json()
         return responseJson
 
     @staticmethod
     def updatePETDetails(updatedRequestBody):
         print('updating the PET details..')
-        updatePetResponse = requests.put('https://petstore.swagger.io/v2/pet', json=updatedRequestBody, headers=headers)
+        updatePetResponse = requests.put(readConfigDetails['API']['baseURI'], json=updatedRequestBody, headers=headers)
         return updatePetResponse.json()
 
     @staticmethod
     def deletePETById(petID):
-        deletePetResponse = requests.delete('https://petstore.swagger.io/v2/pet/' + petID,headers=header)
+        print('deleting the PET details..')
+        deletePetResponse = requests.delete(readConfigDetails['API']['baseURI'] + petID,headers=header)
         return deletePetResponse.json()
 
 

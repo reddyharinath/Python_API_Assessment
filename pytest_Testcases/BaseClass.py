@@ -1,6 +1,5 @@
 import logging
 
-
 class BaseClass:
 
     def getLogDetails(self):

@@ -1,6 +1,6 @@
 import requests
 
-from RestAPI_Assessment.PET_CRUD_Operations import CreatePet
+
 from RestAPI_Assessment.UpdatePETDetails import UpdatePetDetailsById
 
 updateResponseJson = UpdatePetDetailsById.updatePETDetails()

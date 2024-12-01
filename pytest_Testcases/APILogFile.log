@@ -64,3 +64,249 @@
 2024-11-23 18:49:40,820: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900020480
 2024-11-23 18:49:40,820: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900020480
 2024-11-23 18:49:40,820: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900020480
+2024-11-23 18:55:40,546: INFO: pytest_Testcases.BaseClass: validating created PET details
+2024-11-23 18:55:40,548: INFO: pytest_Testcases.BaseClass: created PET ID is: 9223372016900020581
+2024-11-23 18:55:40,555: INFO: pytest_Testcases.BaseClass: validating retrieved PET details
+2024-11-23 18:55:40,555: INFO: pytest_Testcases.BaseClass: validating retrieved PET details
+2024-11-23 18:55:41,499: INFO: pytest_Testcases.BaseClass: Retrieved PET id is: 9223372016900020581
+2024-11-23 18:55:41,499: INFO: pytest_Testcases.BaseClass: Retrieved PET id is: 9223372016900020581
+2024-11-23 18:55:41,509: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-23 18:55:41,509: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-23 18:55:41,509: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-23 18:55:42,506: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372016900020581
+2024-11-23 18:55:42,506: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372016900020581
+2024-11-23 18:55:42,506: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372016900020581
+2024-11-23 18:55:42,515: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-23 18:55:42,515: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-23 18:55:42,515: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-23 18:55:42,515: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-23 18:55:43,718: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900020581
+2024-11-23 18:55:43,718: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900020581
+2024-11-23 18:55:43,718: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900020581
+2024-11-23 18:55:43,718: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900020581
+2024-11-23 21:04:20,448: INFO: pytest_Testcases.BaseClass: validating created PET details
+2024-11-23 21:04:20,449: INFO: pytest_Testcases.BaseClass: created PET ID is: 9223372016900021862
+2024-11-23 21:04:20,455: INFO: pytest_Testcases.BaseClass: validating retrieved PET details
+2024-11-23 21:04:20,455: INFO: pytest_Testcases.BaseClass: validating retrieved PET details
+2024-11-23 21:04:21,308: INFO: pytest_Testcases.BaseClass: Retrieved PET id is: 9223372016900021862
+2024-11-23 21:04:21,308: INFO: pytest_Testcases.BaseClass: Retrieved PET id is: 9223372016900021862
+2024-11-23 21:04:21,310: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-23 21:04:21,310: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-23 21:04:21,310: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-23 21:04:22,158: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372016900021862
+2024-11-23 21:04:22,158: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372016900021862
+2024-11-23 21:04:22,158: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372016900021862
+2024-11-23 21:04:22,167: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-23 21:04:22,167: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-23 21:04:22,167: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-23 21:04:22,167: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-23 21:04:23,054: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900021862
+2024-11-23 21:04:23,054: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900021862
+2024-11-23 21:04:23,054: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900021862
+2024-11-23 21:04:23,054: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900021862
+2024-11-23 21:15:03,719: INFO: pytest_Testcases.BaseClass: validating created PET details
+2024-11-23 21:15:03,720: INFO: pytest_Testcases.BaseClass: created PET ID is: 9223372016900021977
+2024-11-23 21:15:03,722: INFO: pytest_Testcases.BaseClass: validating retrieved PET details
+2024-11-23 21:15:03,722: INFO: pytest_Testcases.BaseClass: validating retrieved PET details
+2024-11-23 21:15:04,579: INFO: pytest_Testcases.BaseClass: Retrieved PET id is: 9223372016900021977
+2024-11-23 21:15:04,579: INFO: pytest_Testcases.BaseClass: Retrieved PET id is: 9223372016900021977
+2024-11-23 21:15:04,581: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-23 21:15:04,581: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-23 21:15:04,581: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-23 21:15:05,453: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372016900021977
+2024-11-23 21:15:05,453: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372016900021977
+2024-11-23 21:15:05,453: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372016900021977
+2024-11-23 21:15:05,459: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-23 21:15:05,459: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-23 21:15:05,459: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-23 21:15:05,459: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-23 21:15:06,328: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900021977
+2024-11-23 21:15:06,328: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900021977
+2024-11-23 21:15:06,328: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900021977
+2024-11-23 21:15:06,328: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900021977
+2024-11-23 21:17:20,646: INFO: pytest_Testcases.BaseClass: validating created PET details
+2024-11-23 21:17:20,648: INFO: pytest_Testcases.BaseClass: created PET ID is: 9223372016900022006
+2024-11-23 21:17:20,651: INFO: pytest_Testcases.BaseClass: validating retrieved PET details
+2024-11-23 21:17:20,651: INFO: pytest_Testcases.BaseClass: validating retrieved PET details
+2024-11-23 21:17:21,504: INFO: pytest_Testcases.BaseClass: Retrieved PET id is: 9223372016900022006
+2024-11-23 21:17:21,504: INFO: pytest_Testcases.BaseClass: Retrieved PET id is: 9223372016900022006
+2024-11-23 21:17:21,507: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-23 21:17:21,507: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-23 21:17:21,507: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-23 21:17:22,386: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372016900022006
+2024-11-23 21:17:22,386: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372016900022006
+2024-11-23 21:17:22,386: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372016900022006
+2024-11-23 21:17:22,391: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-23 21:17:22,391: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-23 21:17:22,391: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-23 21:17:22,391: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-23 21:17:23,262: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900022006
+2024-11-23 21:17:23,262: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900022006
+2024-11-23 21:17:23,262: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900022006
+2024-11-23 21:17:23,262: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900022006
+2024-11-23 21:29:03,491: INFO: pytest_Testcases.BaseClass: validating created PET details
+2024-11-23 21:29:03,492: INFO: pytest_Testcases.BaseClass: created PET ID is: 9223372016900022148
+2024-11-23 21:29:03,499: INFO: pytest_Testcases.BaseClass: validating retrieved PET details
+2024-11-23 21:29:03,499: INFO: pytest_Testcases.BaseClass: validating retrieved PET details
+2024-11-23 21:29:04,358: INFO: pytest_Testcases.BaseClass: Retrieved PET id is: 9223372016900022148
+2024-11-23 21:29:04,358: INFO: pytest_Testcases.BaseClass: Retrieved PET id is: 9223372016900022148
+2024-11-23 21:29:04,361: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-23 21:29:04,361: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-23 21:29:04,361: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-23 21:29:05,223: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372016900022148
+2024-11-23 21:29:05,223: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372016900022148
+2024-11-23 21:29:05,223: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372016900022148
+2024-11-23 21:29:05,227: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-23 21:29:05,227: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-23 21:29:05,227: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-23 21:29:05,227: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-23 21:29:06,086: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900022148
+2024-11-23 21:29:06,086: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900022148
+2024-11-23 21:29:06,086: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900022148
+2024-11-23 21:29:06,086: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900022148
+2024-11-25 09:46:12,372: INFO: pytest_Testcases.BaseClass: validating created PET details
+2024-11-25 09:46:12,374: INFO: pytest_Testcases.BaseClass: created PET ID is: 9223372016900017533
+2024-11-25 09:46:12,389: INFO: pytest_Testcases.BaseClass: validating retrieved PET details
+2024-11-25 09:46:12,389: INFO: pytest_Testcases.BaseClass: validating retrieved PET details
+2024-11-25 09:46:13,430: INFO: pytest_Testcases.BaseClass: Retrieved PET id is: 9223372016900017533
+2024-11-25 09:46:13,430: INFO: pytest_Testcases.BaseClass: Retrieved PET id is: 9223372016900017533
+2024-11-25 09:46:13,438: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-25 09:46:13,438: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-25 09:46:13,438: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-25 09:46:14,480: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372016900017533
+2024-11-25 09:46:14,480: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372016900017533
+2024-11-25 09:46:14,480: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372016900017533
+2024-11-25 09:46:14,483: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-25 09:46:14,483: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-25 09:46:14,483: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-25 09:46:14,483: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-25 09:46:15,552: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900017533
+2024-11-25 09:46:15,552: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900017533
+2024-11-25 09:46:15,552: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900017533
+2024-11-25 09:46:15,552: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900017533
+2024-11-25 09:57:35,720: INFO: pytest_Testcases.BaseClass: validating created PET details
+2024-11-25 09:57:35,720: INFO: pytest_Testcases.BaseClass: created PET ID is: 9223372016900017662
+2024-11-25 09:57:35,727: INFO: pytest_Testcases.BaseClass: validating retrieved PET details
+2024-11-25 09:57:35,727: INFO: pytest_Testcases.BaseClass: validating retrieved PET details
+2024-11-25 09:57:36,664: INFO: pytest_Testcases.BaseClass: Retrieved PET id is: 9223372016900017662
+2024-11-25 09:57:36,664: INFO: pytest_Testcases.BaseClass: Retrieved PET id is: 9223372016900017662
+2024-11-25 09:57:36,672: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-25 09:57:36,672: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-25 09:57:36,672: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-25 09:57:37,593: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372016900017662
+2024-11-25 09:57:37,593: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372016900017662
+2024-11-25 09:57:37,593: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372016900017662
+2024-11-25 09:57:37,599: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-25 09:57:37,599: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-25 09:57:37,599: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-25 09:57:37,599: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-25 09:57:38,519: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900017662
+2024-11-25 09:57:38,519: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900017662
+2024-11-25 09:57:38,519: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900017662
+2024-11-25 09:57:38,519: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900017662
+2024-11-25 10:06:22,423: INFO: pytest_Testcases.BaseClass: validating created PET details
+2024-11-25 10:06:22,424: INFO: pytest_Testcases.BaseClass: created PET ID is: 9223372016900017798
+2024-11-25 10:06:22,436: INFO: pytest_Testcases.BaseClass: validating retrieved PET details
+2024-11-25 10:06:22,436: INFO: pytest_Testcases.BaseClass: validating retrieved PET details
+2024-11-25 10:06:23,526: INFO: pytest_Testcases.BaseClass: Retrieved PET id is: 9223372016900017798
+2024-11-25 10:06:23,526: INFO: pytest_Testcases.BaseClass: Retrieved PET id is: 9223372016900017798
+2024-11-25 10:06:23,531: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-25 10:06:23,531: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-25 10:06:23,531: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-25 10:06:24,592: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372016900017798
+2024-11-25 10:06:24,592: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372016900017798
+2024-11-25 10:06:24,592: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372016900017798
+2024-11-25 10:06:24,599: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-25 10:06:24,599: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-25 10:06:24,599: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-25 10:06:24,599: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-25 10:06:25,658: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900017798
+2024-11-25 10:06:25,658: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900017798
+2024-11-25 10:06:25,658: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900017798
+2024-11-25 10:06:25,658: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900017798
+2024-11-25 10:11:46,394: INFO: pytest_Testcases.BaseClass: validating created PET details
+2024-11-25 10:11:46,395: INFO: pytest_Testcases.BaseClass: created PET ID is: 9223372016900017854
+2024-11-25 10:11:46,404: INFO: pytest_Testcases.BaseClass: validating retrieved PET details
+2024-11-25 10:11:46,404: INFO: pytest_Testcases.BaseClass: validating retrieved PET details
+2024-11-25 10:11:47,357: INFO: pytest_Testcases.BaseClass: Retrieved PET id is: 9223372016900017854
+2024-11-25 10:11:47,357: INFO: pytest_Testcases.BaseClass: Retrieved PET id is: 9223372016900017854
+2024-11-25 10:11:47,365: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-25 10:11:47,365: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-25 10:11:47,365: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-25 10:11:48,284: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372016900017854
+2024-11-25 10:11:48,284: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372016900017854
+2024-11-25 10:11:48,284: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372016900017854
+2024-11-25 10:11:48,293: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-25 10:11:48,293: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-25 10:11:48,293: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-25 10:11:48,293: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-25 10:11:49,225: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900017854
+2024-11-25 10:11:49,225: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900017854
+2024-11-25 10:11:49,225: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900017854
+2024-11-25 10:11:49,225: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372016900017854
+2024-11-25 13:42:16,467: INFO: pytest_Testcases.BaseClass: validating created PET details
+2024-11-25 13:42:16,468: INFO: pytest_Testcases.BaseClass: created PET ID is: 9223372036854775807
+2024-11-25 13:42:16,472: INFO: pytest_Testcases.BaseClass: validating retrieved PET details
+2024-11-25 13:42:16,472: INFO: pytest_Testcases.BaseClass: validating retrieved PET details
+2024-11-25 13:42:17,604: INFO: pytest_Testcases.BaseClass: Retrieved PET id is: 9223372036854775807
+2024-11-25 13:42:17,604: INFO: pytest_Testcases.BaseClass: Retrieved PET id is: 9223372036854775807
+2024-11-25 13:42:17,607: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-25 13:42:17,607: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-25 13:42:17,607: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-25 13:42:18,671: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372036854775807
+2024-11-25 13:42:18,671: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372036854775807
+2024-11-25 13:42:18,671: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372036854775807
+2024-11-25 13:42:18,676: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-25 13:42:18,676: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-25 13:42:18,676: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-25 13:42:18,676: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-25 13:42:19,690: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372036854775807
+2024-11-25 13:42:19,690: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372036854775807
+2024-11-25 13:42:19,690: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372036854775807
+2024-11-25 13:42:19,690: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372036854775807
+2024-11-26 14:14:56,349: INFO: pytest_Testcases.BaseClass: validating created PET details
+2024-11-26 14:14:56,360: INFO: pytest_Testcases.BaseClass: created PET ID is: 9223372036854775807
+2024-11-26 14:18:06,746: INFO: pytest_Testcases.BaseClass: validating created PET details
+2024-11-26 14:18:06,746: INFO: pytest_Testcases.BaseClass: created PET ID is: 9223372036854775807
+2024-11-26 16:12:14,001: INFO: pytest_Testcases.BaseClass: validating created PET details
+2024-11-26 16:12:14,002: INFO: pytest_Testcases.BaseClass: created PET ID is: 9223372036854775807
+2024-11-26 16:13:40,656: INFO: pytest_Testcases.BaseClass: validating created PET details
+2024-11-26 16:13:40,657: INFO: pytest_Testcases.BaseClass: created PET ID is: 9223372036854775807
+2024-11-26 16:13:40,665: INFO: pytest_Testcases.BaseClass: validating retrieved PET details
+2024-11-26 16:13:40,665: INFO: pytest_Testcases.BaseClass: validating retrieved PET details
+2024-11-26 16:13:41,542: INFO: pytest_Testcases.BaseClass: Retrieved PET id is: 9223372036854775807
+2024-11-26 16:13:41,542: INFO: pytest_Testcases.BaseClass: Retrieved PET id is: 9223372036854775807
+2024-11-26 16:13:41,551: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-26 16:13:41,551: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-26 16:13:41,551: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-11-26 16:13:42,438: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372036854775807
+2024-11-26 16:13:42,438: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372036854775807
+2024-11-26 16:13:42,438: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372036854775807
+2024-11-26 16:13:42,458: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-26 16:13:42,458: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-26 16:13:42,458: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-26 16:13:42,458: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-11-26 16:13:43,325: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372036854775807
+2024-11-26 16:13:43,325: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372036854775807
+2024-11-26 16:13:43,325: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372036854775807
+2024-11-26 16:13:43,325: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372036854775807
+2024-12-01 16:41:01,976: INFO: pytest_Testcases.BaseClass: validating created PET details
+2024-12-01 16:41:01,977: INFO: pytest_Testcases.BaseClass: created PET ID is: 9223372036854771171
+2024-12-01 16:41:01,985: INFO: pytest_Testcases.BaseClass: validating retrieved PET details
+2024-12-01 16:41:01,985: INFO: pytest_Testcases.BaseClass: validating retrieved PET details
+2024-12-01 16:41:03,166: INFO: pytest_Testcases.BaseClass: Retrieved PET id is: 9223372036854771171
+2024-12-01 16:41:03,166: INFO: pytest_Testcases.BaseClass: Retrieved PET id is: 9223372036854771171
+2024-12-01 16:41:03,171: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-12-01 16:41:03,171: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-12-01 16:41:03,171: INFO: pytest_Testcases.BaseClass: validating updated PET details
+2024-12-01 16:41:04,347: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372036854771171
+2024-12-01 16:41:04,347: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372036854771171
+2024-12-01 16:41:04,347: INFO: pytest_Testcases.BaseClass: Updated PET id is: 9223372036854771171
+2024-12-01 16:41:04,355: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-12-01 16:41:04,355: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-12-01 16:41:04,355: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-12-01 16:41:04,355: INFO: pytest_Testcases.BaseClass: validating deleted PET details
+2024-12-01 16:41:05,346: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372036854771171
+2024-12-01 16:41:05,346: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372036854771171
+2024-12-01 16:41:05,346: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372036854771171
+2024-12-01 16:41:05,346: INFO: pytest_Testcases.BaseClass: Deleted PET id is: 9223372036854771171
